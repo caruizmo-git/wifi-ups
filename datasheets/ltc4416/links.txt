@@ -1,0 +1,5 @@
+https://embeddedcomputing.com/technology/analog-and-power/batteries-power-supplies/how-to-build-an-uninterruptible-power-supply-for-home-devices
+https://forum.digikey.com/t/how-does-the-ltc4416-enable-smart-power-switching-in-a-single-board-system/66673
+https://www.powerelectronicsnews.com/how-to-prototype-a-power-bank-charger-without-building-dedicated-hardware/
+
+
